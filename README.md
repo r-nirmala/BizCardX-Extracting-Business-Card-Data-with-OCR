@@ -3,11 +3,17 @@
 
 ### REQUIRED LIBRARIES:
 *Easyocr
+
 *Streamlit
+
 *PIL
+
 *Numpy
+
 *Pandas
+
 *Mysql.connector
+
 *RegEx or Regular Expression(re)
 
 ### Approach:
