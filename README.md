@@ -16,6 +16,8 @@
 
 *RegEx or Regular Expression(re)
 
+*io
+
 ### Approach:
 
 --->Use Streamlit to create a basic and intuitive user interface that guides users through the process of uploading the business card image and retrieving its information.
