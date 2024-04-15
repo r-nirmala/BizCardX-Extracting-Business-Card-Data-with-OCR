@@ -1,5 +1,5 @@
 ## BizCardX-Extracting-Business-Card-Data-with-OCR
-  BizCardX-Extracting Business Card Data with OCR Bizcard Extraction is a Python application built with Streamlit, EasyOCR and MySQL database. By leveraging the power of OCR (Optical Character Recognition) provided by EasyOCR, this application extracts information from business cards and store it in a MySQL database for further analysis. It also gives users access to read, update and remove data through a streamlined user interface.
+   Bizcard Extraction is a Python application built with Streamlit, EasyOCR and MySQL database. By leveraging the power of OCR (Optical Character Recognition) provided by EasyOCR, this application extracts information from business cards and store it in a MySQL database for further analysis. It also gives users access to read, update and remove data through a streamlined user interface.
 
 ### REQUIRED LIBRARIES:
 *Easyocr
